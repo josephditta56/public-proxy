@@ -1,0 +1,14 @@
+{
+  "name": "public-proxy",
+  "version": "1.0.0",
+  "description": "A simple public proxy for p5.js website manager",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.2"
+  }
+}
